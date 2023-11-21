@@ -10,7 +10,9 @@ The aim of this project was to perform an EDA on the [UCI Wine dataset](https://
 - [Class presentation of this project](https://youtu.be/3Rha8ELW3cY)
 
 ## Project 2
-TBD.
+The aim of this project was to perform an EDA on the [UCI Breast Cancer dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) and build a deep learning model with PyTorch to classify tumors as either benign or malignant.
+- [Code for this project](https://github.com/awesomecosmos/CS672-Deep-Learning/blob/main/Project%202/project2.ipynb)
+- [Class presentation of this project](https://youtu.be/MHMoNI0goHQ)
 
 ## Project 3
 TBD.
